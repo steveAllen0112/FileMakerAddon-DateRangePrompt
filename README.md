@@ -9,23 +9,23 @@ Add-on for FileMaker Pro 19+.  When called, displays a configured Card window pr
 
   1. Immediately after installing the Addon:
     
-    1. Go to the newly created layout: `Date Range Prompt > Public > Prompt for Date Range {( config )}`
+    A. Go to the newly created layout: `Date Range Prompt > Public > Prompt for Date Range {( config )}`
     
-    1. Go to Layout Mode (Ctrl/Cmd+L)
+    B. Go to Layout Mode (Ctrl/Cmd+L)
     
-    1. Select the main group (named in the Objects `Ungroup this group`, and Ungroup it (Shift+Ctrl/Cmd+R).
+    C. Select the main group (named in the Objects `Ungroup this group`, and Ungroup it (Shift+Ctrl/Cmd+R).
 
       There is a bug in FileMaker's Addon installation process that will cause a display issue with the prompt.
       The above steps cause FileMaker to fix the layout automatically and display properly from then on.
 
   1. OPTIONAL but RECOMMENDED On your first time installing the Addon:
 
-    1. Duplicate the `Date Range Prompt > Public > INTERFACE: Prompt for Date Range {( config )}` script.
+    A. Duplicate the `Date Range Prompt > Public > INTERFACE: Prompt for Date Range {( config )}` script.
        This will produce a script right next to it called `Date Range Prompt > Public > INTERFACE: Prompt for Date Range {( config )} Copy`
     
-    1. Delete the original.
+    B. Delete the original.
     
-    1. Rename the copy to remove the appended string, " Copy".
+    C. Rename the copy to remove the appended string, " Copy".
     
-    1. Call this duplicate script INSTEAD OF the `Prompt for Date Range {( config )}` script whenever you want to raise the prompt.
+    D. Call this duplicate script INSTEAD OF the `Prompt for Date Range {( config )}` script whenever you want to raise the prompt.
        (see comments in the `INTERFACE` script for why.  TL;DR; it makes global customization and upgrading way easier.)
