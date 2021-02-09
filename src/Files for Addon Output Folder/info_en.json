@@ -1,0 +1,30 @@
+﻿{
+	"Title" : "Date Range Prompt",
+
+	"Description" : "This Add-On adds all of the components to raise a Card Windowed Prompt to your users requesting them to enter a Date Range.",
+
+	"Category" : "Modules by Steve Allen @GitHub: https://github.com/steveAllen0112",
+
+	"Features" :
+		[
+			"Designed for easy install and usage.  No-configuration required for first use!",
+			"Designed for easy alteration to use different fields.  Just change the fields on the layout.",
+			"You can even change the layout's table without breaking anything!",
+			"Modular script allows for multiple disparate uses even in the same file.",
+			"Modular script returns results as JSON Object in Script Result.",
+			"Customization at Script Call Time, by JSON Object as Script Parameter",
+			"Can provide initial date(s).  (Default is empty inputs.)",
+			"Can override initial message.",
+			"Can override text on buttons.",
+			"Can override which field(s) to use.",
+			"Can override the label(s) for the input field(s).",
+			"Can specify date(s) to restore to input fields when done.",
+			"Can specify date(s) as required.",
+			"Add-On icon attribution: Date Range by Nick Bluth from the Noun Project"
+		],
+
+	"Optimized" :
+		[
+			"Desktop"
+		]
+}

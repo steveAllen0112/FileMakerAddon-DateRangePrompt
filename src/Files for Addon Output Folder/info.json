@@ -1,0 +1,11 @@
+﻿{
+	"GUID" : "5333E990-8827-9A4D-808E-41FBA62D951B",
+	"Clients" :
+		[
+			"Pro"
+		],
+	"Attribution" : "Steve Allen",
+	"URL" : "https://github.com/steveAllen0112/FileMakerAddon-DateRangePrompt",
+	"Icon_Color" : "#A35872",
+	"Version" : "1.2.0"
+}
