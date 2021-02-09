@@ -26,6 +26,8 @@ Add-on for FileMaker Pro 19+.  When called, displays a configured Card window pr
      B. Delete the original.
     
      C. Rename the copy to remove the appended string, " Copy".
+     
+     D. Optionally (recommended) move the script somewhere outside the Addon's script folder.
     
-     D. Call this duplicate script INSTEAD OF the `Prompt for Date Range {( config )}` script whenever you want to raise the prompt.
+     E. Call this duplicate script INSTEAD OF the `Prompt for Date Range {( config )}` script whenever you want to raise the prompt.
         See comments in the `INTERFACE` script for why.  TL;DR; it makes global customization and upgrading way easier.
