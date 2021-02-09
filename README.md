@@ -21,7 +21,7 @@ Add-on for FileMaker Pro 19+.  When called, displays a configured Card window pr
   3. OPTIONAL but RECOMMENDED On your first time installing the Addon:
 
      A. Duplicate the `Date Range Prompt > Public > INTERFACE: Prompt for Date Range {( config )}` script.
-        This will produce a script right next to it called `Date Range Prompt > Public > INTERFACE: Prompt for Date Range {( config )} Copy`
+        This will produce a script right next to it in the same folder called `INTERFACE: Prompt for Date Range {( config )} Copy`
     
      B. Delete the original.
     
