@@ -34,8 +34,8 @@ To install this addon, do the following steps:
 
   3. OPTIONAL but RECOMMENDED On your first time installing the Addon:
 
-	   A. Duplicate the `Date Range Prompt > Public > INTERFACE: Prompt for Date Range {( config )}` script.
-	      This will produce a script right next to it in the same folder called `INTERFACE: Prompt for Date Range {( config )} Copy`
+     A. Duplicate the `INTERFACE: Prompt for Date Range {( config )}` script.
+        This will produce a script right next to it in the same folder called `INTERFACE: Prompt for Date Range {( config )} Copy`
      
      B. Delete the original.
     
@@ -52,4 +52,4 @@ To install this addon, do the following steps:
   
   Pass in a JSON Object to the Script Parameter, with the configuration options you want, if any.
   
-  (See the comments in the script `Date Range Prompt > Public > Prompt for Date Range {( config )}` for configuration options.)
+  (See the comments in the script `Prompt for Date Range {( config )}` for configuration options.)
