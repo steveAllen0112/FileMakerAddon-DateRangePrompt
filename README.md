@@ -13,6 +13,7 @@ To install this addon, do the following steps:
      Whichever location you get it from, you will find two options:
      
      A. Drag the `Date_Range_Module_Add-On` folder to the appropriate installation location.
+     
      B. (Mac only) Double-click the `Date_Range_Module_Add-On.fmaddon` file.
      
      Note that Option A is recommended, because Option B will result in the module showing without full information in FileMaker.
