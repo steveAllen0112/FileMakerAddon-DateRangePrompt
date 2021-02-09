@@ -45,3 +45,11 @@ To install this addon, do the following steps:
     
      E. Call this duplicate script INSTEAD OF the `Prompt for Date Range {( config )}` script whenever you want to raise the prompt.
         See comments in the `INTERFACE` script for why.  TL;DR; it makes global customization and upgrading way easier.
+
+# Usage
+
+  After installation, to raise a prompt, call the INTERFACE script, per the recommendation (see above).  Or else call the `Prompt for Date Range {( config )}` script directly, if you must.
+  
+  Pass in a JSON Object to the Script Parameter, with the configuration options you want, if any.
+  
+  (See the comments in the script `Date Range Prompt > Public > Prompt for Date Range {( config )}` for configuration options.)
