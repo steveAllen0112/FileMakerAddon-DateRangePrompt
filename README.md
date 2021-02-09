@@ -5,7 +5,19 @@ Add-on for FileMaker Pro 19+.  When called, displays a configured Card window pr
 
 To install this addon, do the following steps:
 
-  1. Get the desired Release, and install the Addon from the `dist/` folder into your FileMaker installation in the usual way.
+  1. Get the desired Release, and install the Addon into your FileMaker installation in the usual way.
+
+     You can obtain the Addon itself from either the `dist/` folder of the Source Code, OR
+     through the official release file, `Date_Range_Module_Add-On.zip`.
+     
+     Whichever location you get it from, you will find two options:
+     
+     A. Drag the `Date_Range_Module_Add-On` folder to the appropriate installation location.
+     B. (Mac only) Double-click the `Date_Range_Module_Add-On.fmaddon` file.
+     
+     Note that Option A is recommended, because Option B will result in the module showing without full information in FileMaker.
+     It will show in category called `__...__`, with the generic icon, no preview, and supposedly authored by Claris!
+     None of this, of course, is correct, but it _is_ the default, which as of yet we don't have a way to override in the `.fmaddon` file.
 
   2. Immediately after installing the Addon:
     
