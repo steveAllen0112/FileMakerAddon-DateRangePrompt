@@ -1,0 +1,30 @@
+﻿{
+	"Title" : "Solicitud de Rango de Fechas",
+
+	"Description" : "Este Add-on agrega todos los componentes para generar un aviso en ventana de tarjeta a sus usuarios solicitándoles que ingresen un rango de fechas.",
+
+	"Category" : "Módulos de Steve Allen @GitHub: https://github.com/steveAllen0112",
+
+	"Features" :
+		[
+			"Diseñado para una fácil instalación y uso. ¡No se requiere configuración para el primer uso!",
+			"Diseñado para una fácil alteración para utilizar diferentes campos. Simplemente cambie los campos en el diseño.",
+			"¡Incluso puedes cambiar la tabla del diseño sin romper nada!",
+			"El script modular permite múltiples usos dispares incluso en el mismo archivo.",
+			"El script modular devuelve resultados como un objeto JSON en Script Result.",
+			"Personalización en el momento de la llamada del script, por objeto JSON como parámetro al script.",
+			"Puede proporcionar la(s) fecha(s) inicial(es). (El valor predeterminado son entradas vacías).",
+			"Puede reponer el mensaje inicial.",
+			"Puede reponer el texto de los botones.",
+			"Puede reponer que campo(s) usar.",
+			"Puede reponer la(s) etiqueta(s) de los campos de entrada.",
+			"Puede especificar la(s) fecha(s) para restaurar a los campos de entrada cuando haya terminado.",
+			"Puede especificar una o ambas fechas requeridas.",
+			"Atribución del ícono de Addon: Rango de Fechas por Nick Bluth de Noun Project"
+		],
+
+	"Optimized" :
+		[
+			"Escritorio"
+		]
+}

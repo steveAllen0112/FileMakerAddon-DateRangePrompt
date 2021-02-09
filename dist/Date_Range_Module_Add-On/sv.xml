@@ -1,0 +1,1393 @@
+﻿
+<DynamicTemplateString>
+	<StringID>com.fmi.basedirectory.1FC398914AFF903BBA7277B3951C1A29</StringID>
+	<SourceText>Date Range Module Add-On/</SourceText>
+	<TargetText>Date Range Module Add-On/</TargetText>
+	<Comment>com.fmi.basedirectory.Date Range Module Add-On/</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.727D31C5E8531C0664FFC1DC320AA2B0</StringID>
+	<SourceText>DRP_Date_Range_Prompt</SourceText>
+	<TargetText>DRP_Date_Range_Prompt</TargetText>
+	<Comment>com.fmi.basetable.DRP_Date_Range_Prompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DRP_Date_Range_Prompt::1E01DE8D8E3E6272B7828DD68175A8DD</StringID>
+	<SourceText>g_dateRange.to</SourceText>
+	<TargetText>g_dateRange.to</TargetText>
+	<Comment>com.fmi.basetable.field.DRP_Date_Range_Prompt::g_dateRange.to</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.basetable.field.DRP_Date_Range_Prompt::F8F6741A6A23E77254A8BBFC942BAE37</StringID>
+	<SourceText>g_dateRange.from</SourceText>
+	<TargetText>g_dateRange.from</TargetText>
+	<Comment>com.fmi.basetable.field.DRP_Date_Range_Prompt::g_dateRange.from</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.011FBAF1D3F69AE3F28B8BCAFE7AE893</StringID>
+	<SourceText>You must enter the End Date!</SourceText>
+	<TargetText>You must enter the End Date!</TargetText>
+	<Comment>com.fmi.calculation.text.You must enter the End Date!</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.032FE8435F0B11E9EB1AD011214D4D91</StringID>
+	<SourceText>From</SourceText>
+	<TargetText>From</TargetText>
+	<Comment>com.fmi.calculation.text.From</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0806825C701DC8CFEC641EB322AEFF88</StringID>
+	<SourceText>Date Range Prompt - </SourceText>
+	<TargetText>Date Range Prompt - </TargetText>
+	<Comment>com.fmi.calculation.text.Date Range Prompt -</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.084D24F69DA47580874E3B94B0130622</StringID>
+	<SourceText> I think PatternCount is faster </SourceText>
+	<TargetText> I think PatternCount is faster </TargetText>
+	<Comment>com.fmi.calculation.text. I think PatternCount is faster</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0CF14DB6992833A6BDC4E1E49DD8B28D</StringID>
+	<SourceText>message</SourceText>
+	<TargetText>message</TargetText>
+	<Comment>com.fmi.calculation.text.message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.0DA489D088D7F550904B33E389D35281</StringID>
+	<SourceText>User action: </SourceText>
+	<TargetText>User action: </TargetText>
+	<Comment>com.fmi.calculation.text.User action:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.13E76D8FA650CB02C0323715A5885649</StringID>
+	<SourceText>Cancel</SourceText>
+	<TargetText>Cancel</TargetText>
+	<Comment>com.fmi.calculation.text.Cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1A53CEB7B799504455933BE830B0948F</StringID>
+	<SourceText>Starting</SourceText>
+	<TargetText>Starting</TargetText>
+	<Comment>com.fmi.calculation.text.Starting</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1B759226EB6991D1214E639EA673D087</StringID>
+	<SourceText>?</SourceText>
+	<TargetText>?</TargetText>
+	<Comment>com.fmi.calculation.text.?</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.1F3E070B2A41CA0ACC6147630B1D6D0D</StringID>
+	<SourceText>restore.fromDate</SourceText>
+	<TargetText>restore.fromDate</TargetText>
+	<Comment>com.fmi.calculation.text.restore.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.20F67F4A82FFB28C1D087F08FC0D0044</StringID>
+	<SourceText>button.message</SourceText>
+	<TargetText>button.message</TargetText>
+	<Comment>com.fmi.calculation.text.button.message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.22FB870EE7AB348C700B68C887AFCC25</StringID>
+	<SourceText>{}</SourceText>
+	<TargetText>{}</TargetText>
+	<Comment>com.fmi.calculation.text.{}</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.28A3270D8C099EED11EEA50A227FF397</StringID>
+	<SourceText>Proceed</SourceText>
+	<TargetText>Proceed</TargetText>
+	<Comment>com.fmi.calculation.text.Proceed</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.29E8E2F57C28D65530F08724C462FB50</StringID>
+	<SourceText>button.action.continue</SourceText>
+	<TargetText>button.action.continue</TargetText>
+	<Comment>com.fmi.calculation.text.button.action.continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.29EAD0E7B0ACB784B86C9F4CBD57CC5C</StringID>
+	<SourceText>dates.to</SourceText>
+	<TargetText>dates.to</TargetText>
+	<Comment>com.fmi.calculation.text.dates.to</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2CE5D28A2625F48261C51C8D37A3B6F7</StringID>
+	<SourceText>Date To: </SourceText>
+	<TargetText>Date To: </TargetText>
+	<Comment>com.fmi.calculation.text.Date To:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.30BDB5FB472ECDD0D23FBE673754D5F1</StringID>
+	<SourceText>objects[0]</SourceText>
+	<TargetText>objects[0]</TargetText>
+	<Comment>com.fmi.calculation.text.objects[0]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.34FE539618D6F9976CC705E171D18BC2</StringID>
+	<SourceText>required.toDate</SourceText>
+	<TargetText>required.toDate</TargetText>
+	<Comment>com.fmi.calculation.text.required.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.39768DEE59683F63E5429EA11E08F7C5</StringID>
+	<SourceText>fieldLabels.fromDate</SourceText>
+	<TargetText>fieldLabels.fromDate</TargetText>
+	<Comment>com.fmi.calculation.text.fieldLabels.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.39B2E95FB960A955C74278DB7A3C65E5</StringID>
+	<SourceText>actions</SourceText>
+	<TargetText>actions</TargetText>
+	<Comment>com.fmi.calculation.text.actions</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.4F7547D511D4027C7F8C079F08091F50</StringID>
+	<SourceText>action</SourceText>
+	<TargetText>action</TargetText>
+	<Comment>com.fmi.calculation.text.action</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.555AC151346263F08BE3775242EBC4A6</StringID>
+	<SourceText>Date From: </SourceText>
+	<TargetText>Date From: </TargetText>
+	<Comment>com.fmi.calculation.text.Date From:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5CD83926F56F3138F89002F7E457B1EA</StringID>
+	<SourceText>Install it, and ensure that the </SourceText>
+	<TargetText>Install it, and ensure that the </TargetText>
+	<Comment>com.fmi.calculation.text.Install it, and ensure that the</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5EB4E24477FFD3EA018B71CD1038A429</StringID>
+	<SourceText>{{value}}</SourceText>
+	<TargetText>{{value}}</TargetText>
+	<Comment>com.fmi.calculation.text.{{value}}</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.6347C53E8CF1F4A3DD8656E06185FC76</StringID>
+	<SourceText>actions.cancel</SourceText>
+	<TargetText>actions.cancel</TargetText>
+	<Comment>com.fmi.calculation.text.actions.cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.70A914F157D7FBD6F1A4AD459355AA8F</StringID>
+	<SourceText>INTERFACE: Prompt for Date Range</SourceText>
+	<TargetText>INTERFACE: Prompt for Date Range</TargetText>
+	<Comment>com.fmi.calculation.text.INTERFACE: Prompt for Date Range</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.73F8A4D3DF93724A911FDB92868BEC7E</StringID>
+	<SourceText>dates.from</SourceText>
+	<TargetText>dates.from</TargetText>
+	<Comment>com.fmi.calculation.text.dates.from</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.75C66A53E79107415B717D1AD40A64B2</StringID>
+	<SourceText>Date Range Prompt Addon Missing!</SourceText>
+	<TargetText>Date Range Prompt Addon Missing!</TargetText>
+	<Comment>com.fmi.calculation.text.Date Range Prompt Addon Missing!</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.7F60D178400E10057552D07A828F9380</StringID>
+	<SourceText>{{key}}</SourceText>
+	<TargetText>{{key}}</TargetText>
+	<Comment>com.fmi.calculation.text.{{key}}</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.81F19CFDBB89A3DE1DC00AB11848F26F</StringID>
+	<SourceText>inputLabel.toDate</SourceText>
+	<TargetText>inputLabel.toDate</TargetText>
+	<Comment>com.fmi.calculation.text.inputLabel.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.84D8F73FE10E0D3A3BF0A9BD442D1D52</StringID>
+	<SourceText>required.fromDate</SourceText>
+	<TargetText>required.fromDate</TargetText>
+	<Comment>com.fmi.calculation.text.required.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.857DD8F1D857E1DBCD19C99117E124A3</StringID>
+	<SourceText>The Date Range Prompt component addon is either not installed, or not connected.</SourceText>
+	<TargetText>The Date Range Prompt component addon is either not installed, or not connected.</TargetText>
+	<Comment>com.fmi.calculation.text.The Date Range Prompt component addon is either not installed, or not connected.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8706BCC594020B120C12A3B8111196DA</StringID>
+	<SourceText>restore.toDate</SourceText>
+	<TargetText>restore.toDate</TargetText>
+	<Comment>com.fmi.calculation.text.restore.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8C3BA8A6BC6CC81884383FCEE6679ECC</StringID>
+	<SourceText>objects</SourceText>
+	<TargetText>objects</TargetText>
+	<Comment>com.fmi.calculation.text.objects</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8CFD43BFE57DA7E5CAB70AA670E3BD3D</StringID>
+	<SourceText>ValueCount ( FilterValues ( lst ; value ) ) &gt; 0<CR/></SourceText>
+	<TargetText>ValueCount ( FilterValues ( lst ; value ) ) &gt; 0<CR/></TargetText>
+	<Comment>com.fmi.calculation.text.ValueCount ( FilterValues ( lst ; value ) ) &gt; 0_CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.8FB23313277FACD7D6821E0C5A60E0A5</StringID>
+	<SourceText>input.fromDate</SourceText>
+	<TargetText>input.fromDate</TargetText>
+	<Comment>com.fmi.calculation.text.input.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.91F127C4B704FC5AC212BA970EB65F39</StringID>
+	<SourceText>source</SourceText>
+	<TargetText>source</TargetText>
+	<Comment>com.fmi.calculation.text.source</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.94D31BC1770BCAA96EF664A37F9256F9</StringID>
+	<SourceText> script is hooked to it.</SourceText>
+	<TargetText> script is hooked to it.</TargetText>
+	<Comment>com.fmi.calculation.text. script is hooked to it.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.A97553572B2C7DEFF122DF441041E19A</StringID>
+	<SourceText>objects[1]</SourceText>
+	<TargetText>objects[1]</TargetText>
+	<Comment>com.fmi.calculation.text.objects[1]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.ABAB35D58D12483C762FB5552D793D6A</StringID>
+	<SourceText>input.toDate</SourceText>
+	<TargetText>input.toDate</TargetText>
+	<Comment>com.fmi.calculation.text.input.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AF82FFE4569E76CBAD175F0A2A9BA229</StringID>
+	<SourceText>Let ( $dateRangePrompt.action.{{key}} = \&quot;{{value}}\&quot;; {{key}} )</SourceText>
+	<TargetText>Let ( $dateRangePrompt.action.{{key}} = \&quot;{{value}}\&quot;; {{key}} )</TargetText>
+	<Comment>com.fmi.calculation.text.Let ( $dateRangePrompt.action.{{key}} = \&quot;{{value}}\&quot;; {{key}} )</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B8F0D963931C22D7C48160183FDD78CA</StringID>
+	<SourceText>Hi, Fellow Developer!</SourceText>
+	<TargetText>Hi, Fellow Developer!</TargetText>
+	<Comment>com.fmi.calculation.text.Hi, Fellow Developer!</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C1BECDD2D84E1A563BE2CE2FE09D81F9</StringID>
+	<SourceText>To</SourceText>
+	<TargetText>To</TargetText>
+	<Comment>com.fmi.calculation.text.To</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C5388B456AB3044BFD874A7351E1895E</StringID>
+	<SourceText>actions.continue</SourceText>
+	<TargetText>actions.continue</TargetText>
+	<Comment>com.fmi.calculation.text.actions.continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C5A941C73AF9EADE2A2B04F0C3211BB5</StringID>
+	<SourceText>[Not specified]</SourceText>
+	<TargetText>[Not specified]</TargetText>
+	<Comment>com.fmi.calculation.text.[Not specified]</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.C69A1DEC575F99EDDD98F69F5DCC57DE</StringID>
+	<SourceText>Previous</SourceText>
+	<TargetText>Previous</TargetText>
+	<Comment>com.fmi.calculation.text.Previous</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CBD4A6334057E0A91599E346F610B4F0</StringID>
+	<SourceText>fieldLabels.toDate</SourceText>
+	<TargetText>fieldLabels.toDate</TargetText>
+	<Comment>com.fmi.calculation.text.fieldLabels.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CE69991DC4A34F2C0B36F3ECD31A0931</StringID>
+	<SourceText>actions.</SourceText>
+	<TargetText>actions.</TargetText>
+	<Comment>com.fmi.calculation.text.actions.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.CF759FA2AC879BE8447F88653546F731</StringID>
+	<SourceText>You must enter the Start Date!</SourceText>
+	<TargetText>You must enter the Start Date!</TargetText>
+	<Comment>com.fmi.calculation.text.You must enter the Start Date!</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.D2AAB3525BC9A2D770EA1668A9ECB6A5</StringID>
+	<SourceText> FOR EXAMPLE:<CR/><TAB/>To globally cause the field labels<CR/><TAB/>to be &quot;Start&quot; and &quot;End&quot;, instead of the default &quot;From&quot;, and &quot;To&quot;:<CR/><CR/><TAB/>NOTE: Doing it _exactly_ this way will disable the ability to override this as well, from call to call.<CR/><TAB/>If you are worried about that, and want to preserve that ability, there are a number of ways<CR/><TAB/>to do the override conditionally based on the override not already being present on the $p object.<CR/>*<CR/><CR/>JSONSetElement ( $p //&lt;-- Note it&apos;s altering the incoming parameter<CR/><TAB/>;[ &quot;fieldLabels.fromDate&quot; ; &quot;Start&quot; ; JSONString ]<CR/><TAB/>;[ &quot;fieldLabels.toDate&quot;   ; &quot;End&quot;   ; JSONString ]<CR/><TAB/>)<CR/><CR/></SourceText>
+	<TargetText> FOR EXAMPLE:<CR/><TAB/>To globally cause the field labels<CR/><TAB/>to be &quot;Start&quot; and &quot;End&quot;, instead of the default &quot;From&quot;, and &quot;To&quot;:<CR/><CR/><TAB/>NOTE: Doing it _exactly_ this way will disable the ability to override this as well, from call to call.<CR/><TAB/>If you are worried about that, and want to preserve that ability, there are a number of ways<CR/><TAB/>to do the override conditionally based on the override not already being present on the $p object.<CR/>*<CR/><CR/>JSONSetElement ( $p //&lt;-- Note it&apos;s altering the incoming parameter<CR/><TAB/>;[ &quot;fieldLabels.fromDate&quot; ; &quot;Start&quot; ; JSONString ]<CR/><TAB/>;[ &quot;fieldLabels.toDate&quot;   ; &quot;End&quot;   ; JSONString ]<CR/><TAB/>)<CR/><CR/></TargetText>
+	<Comment>com.fmi.calculation.text. FOR EXAMPLE:_CR/__TAB/_To globally cause the field labels_CR/__TAB/_to be &quot;Start&quot; and &quot;End&quot;, instead of the default &quot;From&quot;, and &quot;To&quot;:_CR/__CR/__TAB/_NOTE: Doing it _exactly_ this way will disable the ability to override this as well, from call to call._CR/__TAB/_If you are worried about that, and want to preserve that ability, there are a number of ways_CR/__TAB/_to do the override conditionally based on the override not already being present on the $p object._CR/_*_CR/__CR/_JSONSetElement ( $p //&lt;-- Note it&apos;s altering the incoming parameter_CR/__TAB/_;[ &quot;fieldLabels.fromDate&quot; ; &quot;Start&quot; ; JSONString ]_CR/__TAB/_;[ &quot;fieldLabels.toDate&quot;   ; &quot;End&quot;   ; JSONString ]_CR/__TAB/_)_CR/__CR/_</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.DFC0934EEA18B67E2A7CDB1A7C6DE6E2</StringID>
+	<SourceText>Result</SourceText>
+	<TargetText>Result</TargetText>
+	<Comment>com.fmi.calculation.text.Result</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.E66296893B17EFFD2087BAD93E6D6EC3</StringID>
+	<SourceText>window.returnTo</SourceText>
+	<TargetText>window.returnTo</TargetText>
+	<Comment>com.fmi.calculation.text.window.returnTo</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EB2DC494228DD0A5671A9C5E45E027BC</StringID>
+	<SourceText>Please enter the Date Range you wish to use.</SourceText>
+	<TargetText>Please enter the Date Range you wish to use.</TargetText>
+	<Comment>com.fmi.calculation.text.Please enter the Date Range you wish to use.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EC712B563F364BFB30C796282F0F8FEC</StringID>
+	<SourceText>Next</SourceText>
+	<TargetText>Next</TargetText>
+	<Comment>com.fmi.calculation.text.Next</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.EECE2E542B0CDCE586A27B7931BA8BF0</StringID>
+	<SourceText>¶</SourceText>
+	<TargetText>¶</TargetText>
+	<Comment>com.fmi.calculation.text.¶</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.F2EA3F2265A30044AB760BB3F8E37554</StringID>
+	<SourceText>inputLabel.fromDate</SourceText>
+	<TargetText>inputLabel.fromDate</TargetText>
+	<Comment>com.fmi.calculation.text.inputLabel.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.FCBE778D72640367E2C7BC7503BE5ACB</StringID>
+	<SourceText>Ending</SourceText>
+	<TargetText>Ending</TargetText>
+	<Comment>com.fmi.calculation.text.Ending</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.B3ABDDB5803AB8C53B8213BCE36B5D34</StringID>
+	<SourceText>CARD: Date Range Prompt</SourceText>
+	<TargetText>CARD: Date Range Prompt</TargetText>
+	<Comment>com.fmi.layout.CARD: Date Range Prompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.2714883C5D7F1178029DB8475DF50508</StringID>
+	<SourceText>Date Range Prompt</SourceText>
+	<TargetText>Date Range Prompt</TargetText>
+	<Comment>com.fmi.layout.folder.Date Range Prompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layout.folder.5A2C5F634D1BECACCEBDC33589F20C9E</StringID>
+	<SourceText>Modules</SourceText>
+	<TargetText>Modules</TargetText>
+	<Comment>com.fmi.layout.folder.Modules</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.20F67F4A82FFB28C1D087F08FC0D0044</StringID>
+	<SourceText>button.message</SourceText>
+	<TargetText>button.message</TargetText>
+	<Comment>com.fmi.layoutobject.button.message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.29E8E2F57C28D65530F08724C462FB50</StringID>
+	<SourceText>button.action.continue</SourceText>
+	<TargetText>button.action.continue</TargetText>
+	<Comment>com.fmi.layoutobject.button.action.continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.2F2E3FEDD09300AA55E434DBFB3A4458</StringID>
+	<SourceText>buttonBar.message</SourceText>
+	<TargetText>buttonBar.message</TargetText>
+	<Comment>com.fmi.layoutobject.buttonBar.message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.81F19CFDBB89A3DE1DC00AB11848F26F</StringID>
+	<SourceText>inputLabel.toDate</SourceText>
+	<TargetText>inputLabel.toDate</TargetText>
+	<Comment>com.fmi.layoutobject.inputLabel.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.8FB23313277FACD7D6821E0C5A60E0A5</StringID>
+	<SourceText>input.fromDate</SourceText>
+	<TargetText>input.fromDate</TargetText>
+	<Comment>com.fmi.layoutobject.input.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.90CC0865B413C92075B703CEFFABA612</StringID>
+	<SourceText>text.offScreen.instructions</SourceText>
+	<TargetText>text.offScreen.instructions</TargetText>
+	<Comment>com.fmi.layoutobject.text.offScreen.instructions</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.9C1DE57B8FEA51F237E378EAD2D66984</StringID>
+	<SourceText>button.action.cancel</SourceText>
+	<TargetText>button.action.cancel</TargetText>
+	<Comment>com.fmi.layoutobject.button.action.cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.ABAB35D58D12483C762FB5552D793D6A</StringID>
+	<SourceText>input.toDate</SourceText>
+	<TargetText>input.toDate</TargetText>
+	<Comment>com.fmi.layoutobject.input.toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.C10E66497C1B81EFBA164EC09E4B2137</StringID>
+	<SourceText>buttonBar.action.continue</SourceText>
+	<TargetText>buttonBar.action.continue</TargetText>
+	<Comment>com.fmi.layoutobject.buttonBar.action.continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.D36B92D3500B027A8B5BD3348B187EAD</StringID>
+	<SourceText>Ungroup this group</SourceText>
+	<TargetText>Ungroup this group</TargetText>
+	<Comment>com.fmi.layoutobject.Ungroup this group</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.E978BFA70DBC420F0A9768F1C2DCA754</StringID>
+	<SourceText>buttonBar.action.cancel</SourceText>
+	<TargetText>buttonBar.action.cancel</TargetText>
+	<Comment>com.fmi.layoutobject.buttonBar.action.cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.F2EA3F2265A30044AB760BB3F8E37554</StringID>
+	<SourceText>inputLabel.fromDate</SourceText>
+	<TargetText>inputLabel.fromDate</TargetText>
+	<Comment>com.fmi.layoutobject.inputLabel.fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.F6B4C227013BF142025FFA0B69920DFD</StringID>
+	<SourceText>block.layoutPositionAnchorForCopying</SourceText>
+	<TargetText>block.layoutPositionAnchorForCopying</TargetText>
+	<Comment>com.fmi.layoutobject.block.layoutPositionAnchorForCopying</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.36F91576872BEC7E70D47D66A7D4CC53</StringID>
+	<SourceText>Example: Generate Report</SourceText>
+	<TargetText>Example: Generate Report</TargetText>
+	<Comment>com.fmi.layoutobject.text.Example: Generate Report</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.972834299688FBEC94717ED75E7A89FA</StringID>
+	<SourceText>&lt;&lt;$label.fromDate&gt;&gt;</SourceText>
+	<TargetText>&lt;&lt;$label.fromDate&gt;&gt;</TargetText>
+	<Comment>com.fmi.layoutobject.text.&lt;&lt;$label.fromDate&gt;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.D1867121FDD7E5A835D49387C48ED3B4</StringID>
+	<SourceText>&lt;&lt;$label.toDate&gt;&gt;</SourceText>
+	<TargetText>&lt;&lt;$label.toDate&gt;&gt;</TargetText>
+	<Comment>com.fmi.layoutobject.text.&lt;&lt;$label.toDate&gt;&gt;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.D71C0190D79B823F0244AD815B814CBE</StringID>
+	<SourceText>/*<CR/>INSTRUCTIONS FOR USE<CR/><CR/>If you want to use different fields as inputs, go ahead and change them.<CR/>Just make sure you don&apos;t change the object names.<CR/><CR/>Likewise, you can base this layout on any table you want.<CR/>*/</SourceText>
+	<TargetText>/*<CR/>INSTRUCTIONS FOR USE<CR/><CR/>If you want to use different fields as inputs, go ahead and change them.<CR/>Just make sure you don&apos;t change the object names.<CR/><CR/>Likewise, you can base this layout on any table you want.<CR/>*/</TargetText>
+	<Comment>com.fmi.layoutobject.text./*_CR/_INSTRUCTIONS FOR USE_CR/__CR/_If you want to use different fields as inputs, go ahead and change them._CR/_Just make sure you don&apos;t change the object names._CR/__CR/_Likewise, you can base this layout on any table you want._CR/_*/</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.layoutobject.text.F957D583924AC01B7255500D01DE4C81</StringID>
+	<SourceText>Raise Date Range Prompt</SourceText>
+	<TargetText>Raise Date Range Prompt</TargetText>
+	<Comment>com.fmi.layoutobject.text.Raise Date Range Prompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.13D8440A54C78E31EE76BDF4D22C28D3</StringID>
+	<SourceText>Prompt for Date Range {( config )}</SourceText>
+	<TargetText>Prompt for Date Range {( config )}</TargetText>
+	<Comment>com.fmi.script.Prompt for Date Range {( config )}</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.3E9C6BE368975B01B582ABDA6DF503BB</StringID>
+	<SourceText>INTERFACE: Prompt for Date Range {( config )}</SourceText>
+	<TargetText>INTERFACE: Prompt for Date Range {( config )}</TargetText>
+	<Comment>com.fmi.script.INTERFACE: Prompt for Date Range {( config )}</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.64A790D27F44C1220560CC16CF267B02</StringID>
+	<SourceText>Date Range Prompt: Refresh Objects</SourceText>
+	<TargetText>Date Range Prompt: Refresh Objects</TargetText>
+	<Comment>com.fmi.script.Date Range Prompt: Refresh Objects</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.6F094A99543E8E4BA5BCE02AB53FFF09</StringID>
+	<SourceText>Generate Report</SourceText>
+	<TargetText>Generate Report</TargetText>
+	<Comment>com.fmi.script.Generate Report</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.8A98CF0C43839ADFE4B494463CCAF005</StringID>
+	<SourceText>Date Range Prompt: Continue</SourceText>
+	<TargetText>Date Range Prompt: Continue</TargetText>
+	<Comment>com.fmi.script.Date Range Prompt: Continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.C0AA52C6088BA48F78ED3CFA24CB9B30</StringID>
+	<SourceText>GitHub: https://github.com/steveAllen0112/FileMakerAddon-DateRangePrompt</SourceText>
+	<TargetText>GitHub: https://github.com/steveAllen0112/FileMakerAddon-DateRangePrompt</TargetText>
+	<Comment>com.fmi.script.GitHub: https://github.com/steveAllen0112/FileMakerAddon-DateRangePrompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.108EF442577759E467B44AD8C3CF7752</StringID>
+	<SourceText>Public</SourceText>
+	<TargetText>Public</TargetText>
+	<Comment>com.fmi.script.folder.Public</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.726EB62A5EFDFE4CEA24167F31D4B094</StringID>
+	<SourceText>Example Use</SourceText>
+	<TargetText>Example Use</TargetText>
+	<Comment>com.fmi.script.folder.Example Use</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.CAB285360B0FD342DB052A977FC4FF21</StringID>
+	<SourceText>Private</SourceText>
+	<TargetText>Private</TargetText>
+	<Comment>com.fmi.script.folder.Private</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.script.folder.FDDF5B622F2C3A3A1322B2989259B8E3</StringID>
+	<SourceText>Date Range Prompt v1.2.0</SourceText>
+	<TargetText>Date Range Prompt v1.2.0</TargetText>
+	<Comment>com.fmi.script.folder.Date Range Prompt v1.2.0</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.024907A17484290D45C8B9CED60B9F0A</StringID>
+	<SourceText>@window</SourceText>
+	<TargetText>@window</TargetText>
+	<Comment>com.fmi.scriptstep.text.@window</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.047C654EA3DB31AF6281FEB129DE6527</StringID>
+	<SourceText>        Overrides the text of the button that the user clicks to continue/submit the prompt.</SourceText>
+	<TargetText>        Overrides the text of the button that the user clicks to continue/submit the prompt.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Overrides the text of the button that the user clicks to continue/submit the prompt.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.09539D994FF4F2400E73135741CFD2CC</StringID>
+	<SourceText>        STRING (Date), OPTIONAL</SourceText>
+	<TargetText>        STRING (Date), OPTIONAL</TargetText>
+	<Comment>com.fmi.scriptstep.text.        STRING (Date), OPTIONAL</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.09A52662D2C257A4498E2C767694B822</StringID>
+	<SourceText>        The &quot;From&quot; date value, present if submitted.</SourceText>
+	<TargetText>        The &quot;From&quot; date value, present if submitted.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        The &quot;From&quot; date value, present if submitted.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.0AD7C483EB4934140352785056C28D64</StringID>
+	<SourceText>        STRING, OPTIONAL</SourceText>
+	<TargetText>        STRING, OPTIONAL</TargetText>
+	<Comment>com.fmi.scriptstep.text.        STRING, OPTIONAL</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.0B974E36B500F66685182F515A23830D</StringID>
+	<SourceText>        Overrides which field will be used to receive User input of the &quot;To&quot; date.</SourceText>
+	<TargetText>        Overrides which field will be used to receive User input of the &quot;To&quot; date.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Overrides which field will be used to receive User input of the &quot;To&quot; date.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.0C5F036EDDF77D8E6F7AACBECC15C3E3</StringID>
+	<SourceText>Everything passed muster</SourceText>
+	<TargetText>Everything passed muster</TargetText>
+	<Comment>com.fmi.scriptstep.text.Everything passed muster</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.1691A7FCF563AC86A4CFAD01521B6B60</StringID>
+	<SourceText>            (uses Select Window)</SourceText>
+	<TargetText>            (uses Select Window)</TargetText>
+	<Comment>com.fmi.scriptstep.text.            (uses Select Window)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.16E0E7B11A91BDF55BE35BB39ECF5DC1</StringID>
+	<SourceText>    STRING, OPTIONAL</SourceText>
+	<TargetText>    STRING, OPTIONAL</TargetText>
+	<Comment>com.fmi.scriptstep.text.    STRING, OPTIONAL</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.220C2613C588355B93BFB46263CC4016</StringID>
+	<SourceText>        Fills the &quot;From&quot; Date input field with the provided value.</SourceText>
+	<TargetText>        Fills the &quot;From&quot; Date input field with the provided value.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Fills the &quot;From&quot; Date input field with the provided value.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2333E32FF2A3DD328ED585F41B0BCC90</StringID>
+	<SourceText>        DEFAULT: Empty</SourceText>
+	<TargetText>        DEFAULT: Empty</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: Empty</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.23551F268EF0FBA67C3B7DC8FAB6670D</StringID>
+	<SourceText>@restore</SourceText>
+	<TargetText>@restore</TargetText>
+	<Comment>com.fmi.scriptstep.text.@restore</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.253020D6C43A45AF4C084F9977EA3EE2</StringID>
+	<SourceText>        DEFAULT: &quot;To&quot;</SourceText>
+	<TargetText>        DEFAULT: &quot;To&quot;</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: &quot;To&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.25CC667335212DC714470CDABDA2991F</StringID>
+	<SourceText>    - If a Param description has a nested @ value, e.g. @continue in the @action section, it is intended to indicate a property of the parent object.</SourceText>
+	<TargetText>    - If a Param description has a nested @ value, e.g. @continue in the @action section, it is intended to indicate a property of the parent object.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    - If a Param description has a nested @ value, e.g. @continue in the @action section, it is intended to indicate a property of the parent object.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.26B71AD5B7496771CD23E347D396B67A</StringID>
+	<SourceText>    - Wherever &quot;Date&quot; is provided as a subtype, e.g. STRING (Date), it means that the String should be recognizable/parsable by GetAsDate().</SourceText>
+	<TargetText>    - Wherever &quot;Date&quot; is provided as a subtype, e.g. STRING (Date), it means that the String should be recognizable/parsable by GetAsDate().</TargetText>
+	<Comment>com.fmi.scriptstep.text.    - Wherever &quot;Date&quot; is provided as a subtype, e.g. STRING (Date), it means that the String should be recognizable/parsable by GetAsDate().</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.27A0EAC9C3EDD970595E10A884219E42</StringID>
+	<SourceText>        1. Uninstall the current version.</SourceText>
+	<TargetText>        1. Uninstall the current version.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        1. Uninstall the current version.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.28A55C660AE908B00FB0799F57B30A74</StringID>
+	<SourceText>        Fills the &quot;To&quot; Date input field with the provided value.</SourceText>
+	<TargetText>        Fills the &quot;To&quot; Date input field with the provided value.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Fills the &quot;To&quot; Date input field with the provided value.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.29E08628945A9091EE1EA612BF127C23</StringID>
+	<SourceText>           and you will be forced to go find all those broken places and specify the script again after reinstall/new install.</SourceText>
+	<TargetText>           and you will be forced to go find all those broken places and specify the script again after reinstall/new install.</TargetText>
+	<Comment>com.fmi.scriptstep.text.           and you will be forced to go find all those broken places and specify the script again after reinstall/new install.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.29E5D791B6C4E53485A2FC898320042B</StringID>
+	<SourceText>    @continue</SourceText>
+	<TargetText>    @continue</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2D1F3DB08AC32A9398DF948C39A45E12</StringID>
+	<SourceText>                unless they were required by PARAMS-&gt;@required</SourceText>
+	<TargetText>                unless they were required by PARAMS-&gt;@required</TargetText>
+	<Comment>com.fmi.scriptstep.text.                unless they were required by PARAMS-&gt;@required</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2DCA8306E665AEE6A008E67F0B30B238</StringID>
+	<SourceText>        The &quot;To&quot; date value, present if submitted.</SourceText>
+	<TargetText>        The &quot;To&quot; date value, present if submitted.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        The &quot;To&quot; date value, present if submitted.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2E0DA17F93E7CF9FF7B7AA4389B3A979</StringID>
+	<SourceText>        False/[not provided]: The &quot;To&quot; Date will not be required.  The user will be able to continue/submit with no value provided in the &quot;To&quot; Date input field.</SourceText>
+	<TargetText>        False/[not provided]: The &quot;To&quot; Date will not be required.  The user will be able to continue/submit with no value provided in the &quot;To&quot; Date input field.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        False/[not provided]: The &quot;To&quot; Date will not be required.  The user will be able to continue/submit with no value provided in the &quot;To&quot; Date input field.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.2F662F4BE8539475E265EA59867C4FFC</StringID>
+	<SourceText>Open the Prompt</SourceText>
+	<TargetText>Open the Prompt</TargetText>
+	<Comment>com.fmi.scriptstep.text.Open the Prompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.30EA2C0579D7983E3E29E953F862B5F7</StringID>
+	<SourceText>        BOOLEAN, OPTIONAL</SourceText>
+	<TargetText>        BOOLEAN, OPTIONAL</TargetText>
+	<Comment>com.fmi.scriptstep.text.        BOOLEAN, OPTIONAL</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.31B1FAE7FAD3D7E87488A0CBB0788DBD</StringID>
+	<SourceText>Close the module and return control back to the caller.</SourceText>
+	<TargetText>Close the module and return control back to the caller.</TargetText>
+	<Comment>com.fmi.scriptstep.text.Close the module and return control back to the caller.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.3D68907F2A905D256A2A9B635BADAAB7</StringID>
+	<SourceText>    2. Delete this script.</SourceText>
+	<TargetText>    2. Delete this script.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    2. Delete this script.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.3E75CAE1603AD208BB92170F9D3114B7</StringID>
+	<SourceText>================================================================================================================== </SourceText>
+	<TargetText>================================================================================================================== </TargetText>
+	<Comment>com.fmi.scriptstep.text.==================================================================================================================</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.4DC71800225991F0B666694AFA1C983B</StringID>
+	<SourceText>            NB: This does NOT mean that the dates will necessarily have been provided,</SourceText>
+	<TargetText>            NB: This does NOT mean that the dates will necessarily have been provided,</TargetText>
+	<Comment>com.fmi.scriptstep.text.            NB: This does NOT mean that the dates will necessarily have been provided,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5122FE4194F63F045A5CDFC98ABDFB69</StringID>
+	<SourceText>To do global customization, use this calculation to update the config object passed in.</SourceText>
+	<TargetText>To do global customization, use this calculation to update the config object passed in.</TargetText>
+	<Comment>com.fmi.scriptstep.text.To do global customization, use this calculation to update the config object passed in.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.518CC8EC190DFA19A44928F86EFB034E</StringID>
+	<SourceText>    STRING, ALWAYS PRESENT</SourceText>
+	<TargetText>    STRING, ALWAYS PRESENT</TargetText>
+	<Comment>com.fmi.scriptstep.text.    STRING, ALWAYS PRESENT</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.536BEBD2E44E7B3C8986702A1166E799</StringID>
+	<SourceText>Prepare the Inputs</SourceText>
+	<TargetText>Prepare the Inputs</TargetText>
+	<Comment>com.fmi.scriptstep.text.Prepare the Inputs</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.547D4B989EFE8C8C3E50C7C154F41DDC</StringID>
+	<SourceText>        False/[not provided]: The &quot;From&quot; Date will not be required.  The user will be able to continue/submit with no value provided in the &quot;From&quot; Date input field.</SourceText>
+	<TargetText>        False/[not provided]: The &quot;From&quot; Date will not be required.  The user will be able to continue/submit with no value provided in the &quot;From&quot; Date input field.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        False/[not provided]: The &quot;From&quot; Date will not be required.  The user will be able to continue/submit with no value provided in the &quot;From&quot; Date input field.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5BC2704EBB41EC3612087A3C62EB88D1</StringID>
+	<SourceText>           uninstalling an Add-on with the &quot;delete everything&quot; box checked will in fact delete the `Prompt for Date Range` script as well.</SourceText>
+	<TargetText>           uninstalling an Add-on with the &quot;delete everything&quot; box checked will in fact delete the `Prompt for Date Range` script as well.</TargetText>
+	<Comment>com.fmi.scriptstep.text.           uninstalling an Add-on with the &quot;delete everything&quot; box checked will in fact delete the `Prompt for Date Range` script as well.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5DAA080A9CE72331015AF68E17F54896</StringID>
+	<SourceText>  Instructions for intended use:</SourceText>
+	<TargetText>  Instructions for intended use:</TargetText>
+	<Comment>com.fmi.scriptstep.text.  Instructions for intended use:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.5F9A5DF12EB338649B4C1101EA841C5B</StringID>
+	<SourceText>        Overrides the default label for the field used to receive User input of the &quot;To&quot; date.</SourceText>
+	<TargetText>        Overrides the default label for the field used to receive User input of the &quot;To&quot; date.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Overrides the default label for the field used to receive User input of the &quot;To&quot; date.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.614BBD297D60C1A46E3BC812D41DF8FE</StringID>
+	<SourceText>PARAMS:</SourceText>
+	<TargetText>PARAMS:</TargetText>
+	<Comment>com.fmi.scriptstep.text.PARAMS:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.65B35665961A2E7E13F1F932E0D08427</StringID>
+	<SourceText>        STRING (Date), CONDITIONALLY PRESENT</SourceText>
+	<TargetText>        STRING (Date), CONDITIONALLY PRESENT</TargetText>
+	<Comment>com.fmi.scriptstep.text.        STRING (Date), CONDITIONALLY PRESENT</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.67BCCB124030C89D62598ABFB27935D1</StringID>
+	<SourceText>               JSONSetParameter ( &quot;{}&quot; ; &quot;action.continue&quot; ; &quot;Next&quot; ; JSONString )</SourceText>
+	<TargetText>               JSONSetParameter ( &quot;{}&quot; ; &quot;action.continue&quot; ; &quot;Next&quot; ; JSONString )</TargetText>
+	<Comment>com.fmi.scriptstep.text.               JSONSetParameter ( &quot;{}&quot; ; &quot;action.continue&quot; ; &quot;Next&quot; ; JSONString )</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6A2A7598F0BF5418E6F300B806FBD689</StringID>
+	<SourceText>    Present if either the To or From values were submitted.</SourceText>
+	<TargetText>    Present if either the To or From values were submitted.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    Present if either the To or From values were submitted.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6CB59B0CF4EB76E9C8F1ADE58B6961E6</StringID>
+	<SourceText>    OBJECT, OPTIONAL</SourceText>
+	<TargetText>    OBJECT, OPTIONAL</TargetText>
+	<Comment>com.fmi.scriptstep.text.    OBJECT, OPTIONAL</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.6CF10D06F58512EE0A405A4694A3C54C</StringID>
+	<SourceText>    NB: The submitted values may be the defaults, if provided under PARAMS-&gt;@dates</SourceText>
+	<TargetText>    NB: The submitted values may be the defaults, if provided under PARAMS-&gt;@dates</TargetText>
+	<Comment>com.fmi.scriptstep.text.    NB: The submitted values may be the defaults, if provided under PARAMS-&gt;@dates</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7165419C852F3B8C7A29F48FB6A51D53</StringID>
+	<SourceText>        &quot;Cancel&quot;, or the user supplied override string for the cancel action, from PARAMS-&gt;@actions-&gt;@cancel</SourceText>
+	<TargetText>        &quot;Cancel&quot;, or the user supplied override string for the cancel action, from PARAMS-&gt;@actions-&gt;@cancel</TargetText>
+	<Comment>com.fmi.scriptstep.text.        &quot;Cancel&quot;, or the user supplied override string for the cancel action, from PARAMS-&gt;@actions-&gt;@cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.71F55748C93FE4BBA18C4DCB91FE3010</StringID>
+	<SourceText>   Reason for intended use.</SourceText>
+	<TargetText>   Reason for intended use.</TargetText>
+	<Comment>com.fmi.scriptstep.text.   Reason for intended use.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.78227234FFCC43712BC7A08153654037</StringID>
+	<SourceText>            This value means that the user successfully continued the prompt.</SourceText>
+	<TargetText>            This value means that the user successfully continued the prompt.</TargetText>
+	<Comment>com.fmi.scriptstep.text.            This value means that the user successfully continued the prompt.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7893A137AD41174D5E0C3211E8A443A7</StringID>
+	<SourceText>    DEFAULT: &quot;Please enter the Date Range you wish to use.&quot;</SourceText>
+	<TargetText>    DEFAULT: &quot;Please enter the Date Range you wish to use.&quot;</TargetText>
+	<Comment>com.fmi.scriptstep.text.    DEFAULT: &quot;Please enter the Date Range you wish to use.&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7AA089C15ED1D6FA080B0AA0D65EBD50</StringID>
+	<SourceText>        True: the &quot;To&quot; Date will be required.  The user will not be able to continue/submit unless a value is provided in the &quot;To&quot; Date input field.</SourceText>
+	<TargetText>        True: the &quot;To&quot; Date will be required.  The user will not be able to continue/submit unless a value is provided in the &quot;To&quot; Date input field.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        True: the &quot;To&quot; Date will be required.  The user will not be able to continue/submit unless a value is provided in the &quot;To&quot; Date input field.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7C44E75A745EF593DCB72C17996A28F8</StringID>
+	<SourceText>        Overrides the default label for the field used to receive User input of the &quot;From&quot; date.</SourceText>
+	<TargetText>        Overrides the default label for the field used to receive User input of the &quot;From&quot; date.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Overrides the default label for the field used to receive User input of the &quot;From&quot; date.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7D79236A5405116ACCD8E7B964CE3051</StringID>
+	<SourceText>        True: the &quot;From&quot; Date will be required.  The user will not be able to continue/submit unless a value is provided in the &quot;From&quot; Date input.</SourceText>
+	<TargetText>        True: the &quot;From&quot; Date will be required.  The user will not be able to continue/submit unless a value is provided in the &quot;From&quot; Date input.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        True: the &quot;From&quot; Date will be required.  The user will not be able to continue/submit unless a value is provided in the &quot;From&quot; Date input.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7E152A2E3AA865574C2842FEEA8C9E5E</StringID>
+	<SourceText>       If, however, you follow these instructions after first install, especially #4, which is key,</SourceText>
+	<TargetText>       If, however, you follow these instructions after first install, especially #4, which is key,</TargetText>
+	<Comment>com.fmi.scriptstep.text.       If, however, you follow these instructions after first install, especially #4, which is key,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.7E5E70FAA9710590FB55C9DC9E8AC838</StringID>
+	<SourceText>NOTES: </SourceText>
+	<TargetText>NOTES: </TargetText>
+	<Comment>com.fmi.scriptstep.text.NOTES:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.8B0E5BE43D5830D940ACCADA756DBB57</StringID>
+	<SourceText>        Name of an open FileMaker Window.</SourceText>
+	<TargetText>        Name of an open FileMaker Window.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Name of an open FileMaker Window.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.8E3DB196C1D7AF7C7B80A6BC7C15A175</StringID>
+	<SourceText>    Overrides the initial instructional message shown to the user.</SourceText>
+	<TargetText>    Overrides the initial instructional message shown to the user.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    Overrides the initial instructional message shown to the user.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.9080485C9734BFAF1B8DFE8E5C105019</StringID>
+	<SourceText>Gather the current inputs</SourceText>
+	<TargetText>Gather the current inputs</TargetText>
+	<Comment>com.fmi.scriptstep.text.Gather the current inputs</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.90AA36E8365A0EEA56DC17867FF6403D</StringID>
+	<SourceText>        Overrides which window to return the control flow to when the Prompt is closed.</SourceText>
+	<TargetText>        Overrides which window to return the control flow to when the Prompt is closed.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Overrides which window to return the control flow to when the Prompt is closed.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.9286618FE0B2C104A3FBBEC4C6CD20A4</StringID>
+	<SourceText> </SourceText>
+	<TargetText> </TargetText>
+	<Comment>com.fmi.scriptstep.text.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.937B199B8B70FA571A5C8E9AF3A37C19</StringID>
+	<SourceText>    - &quot;From&quot; and &quot;To&quot; throughout are understood in this module to be synonyms for &quot;start&quot; and &quot;end&quot; for the range.</SourceText>
+	<TargetText>    - &quot;From&quot; and &quot;To&quot; throughout are understood in this module to be synonyms for &quot;start&quot; and &quot;end&quot; for the range.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    - &quot;From&quot; and &quot;To&quot; throughout are understood in this module to be synonyms for &quot;start&quot; and &quot;end&quot; for the range.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.93D6970C92CB32D2B79F692E15A971E6</StringID>
+	<SourceText>    @cancel</SourceText>
+	<TargetText>    @cancel</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @cancel</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.94454B541FC53B86B48385798B3CBAFD</StringID>
+	<SourceText>              (that is, never call the `Prompt for Date Range` script directly, but call the duplicate of this interface instead)</SourceText>
+	<TargetText>              (that is, never call the `Prompt for Date Range` script directly, but call the duplicate of this interface instead)</TargetText>
+	<Comment>com.fmi.scriptstep.text.              (that is, never call the `Prompt for Date Range` script directly, but call the duplicate of this interface instead)</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.96FC16494013CDB2A8F2BEE291ADEEEF</StringID>
+	<SourceText>           In which case if you have threaded that script directly throughout your file already, having it go away will break everything,</SourceText>
+	<TargetText>           In which case if you have threaded that script directly throughout your file already, having it go away will break everything,</TargetText>
+	<Comment>com.fmi.scriptstep.text.           In which case if you have threaded that script directly throughout your file already, having it go away will break everything,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.9D4D4BF30F12B5C216049BDE6BB9B56D</StringID>
+	<SourceText>    This Script will return a JSON Object as a Script Result.</SourceText>
+	<TargetText>    This Script will return a JSON Object as a Script Result.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    This Script will return a JSON Object as a Script Result.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.A11D797B4E7BC2CFC563812C44F975E3</StringID>
+	<SourceText>    @from</SourceText>
+	<TargetText>    @from</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @from</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.A35602A2E84BE207439012DC5658D5D4</StringID>
+	<SourceText>        Specifies what value to restor to the &quot;To&quot; date input field when the Prompt is closed.</SourceText>
+	<TargetText>        Specifies what value to restor to the &quot;To&quot; date input field when the Prompt is closed.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Specifies what value to restor to the &quot;To&quot; date input field when the Prompt is closed.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.A408FC3CBD5D262A8B9ABCF2DD2D2410</StringID>
+	<SourceText>        &quot;Proceed&quot;, or the call-time supplied override string for the continue action, from PARAMS-&gt;@actions-&gt;@continue</SourceText>
+	<TargetText>        &quot;Proceed&quot;, or the call-time supplied override string for the continue action, from PARAMS-&gt;@actions-&gt;@continue</TargetText>
+	<Comment>com.fmi.scriptstep.text.        &quot;Proceed&quot;, or the call-time supplied override string for the continue action, from PARAMS-&gt;@actions-&gt;@continue</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.A5447529D264F2B3CB4EE818E46F70E2</StringID>
+	<SourceText>        DEFAULT: &quot;Cancel&quot;</SourceText>
+	<TargetText>        DEFAULT: &quot;Cancel&quot;</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: &quot;Cancel&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.B431F98A5B53DFB82ADF55939B8F8FC3</StringID>
+	<SourceText>           then if you ever want to upgrade the Add-on to future versions, all you will need to do, if you&apos;ve followed these steps, would be:</SourceText>
+	<TargetText>           then if you ever want to upgrade the Add-on to future versions, all you will need to do, if you&apos;ve followed these steps, would be:</TargetText>
+	<Comment>com.fmi.scriptstep.text.           then if you ever want to upgrade the Add-on to future versions, all you will need to do, if you&apos;ve followed these steps, would be:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.B5308C68A593F93A3ADBAD8A3A3B0AC4</StringID>
+	<SourceText>       This technique has the added benefit of being able to customize the usage configuration globally in one spot as well,</SourceText>
+	<TargetText>       This technique has the added benefit of being able to customize the usage configuration globally in one spot as well,</TargetText>
+	<Comment>com.fmi.scriptstep.text.       This technique has the added benefit of being able to customize the usage configuration globally in one spot as well,</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.B77DCE192A45C60E066B426B4F3ABDCF</StringID>
+	<SourceText>If the Custom Dialog below was shown, this Perform Script should be pointed at &quot;&lt;Unknown&gt;&quot;.</SourceText>
+	<TargetText>If the Custom Dialog below was shown, this Perform Script should be pointed at &quot;&lt;Unknown&gt;&quot;.</TargetText>
+	<Comment>com.fmi.scriptstep.text.If the Custom Dialog below was shown, this Perform Script should be pointed at &quot;&lt;Unknown&gt;&quot;.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.BB0A9D90036BA15245DC3195D3901712</StringID>
+	<SourceText>        Specifies what value to restor to the &quot;From&quot; date input field when the Prompt is closed.</SourceText>
+	<TargetText>        Specifies what value to restor to the &quot;From&quot; date input field when the Prompt is closed.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Specifies what value to restor to the &quot;From&quot; date input field when the Prompt is closed.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.BC9C0EA090D7443B5952A1B48E17359C</StringID>
+	<SourceText>       This technique is intended to get around the fact that</SourceText>
+	<TargetText>       This technique is intended to get around the fact that</TargetText>
+	<Comment>com.fmi.scriptstep.text.       This technique is intended to get around the fact that</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C193970B744E8248E4805DDDFCC28500</StringID>
+	<SourceText>        DEFAULT: False</SourceText>
+	<TargetText>        DEFAULT: False</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: False</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C1C51E1C00C509ACA2F6639119F127CD</StringID>
+	<SourceText>    In which case, point it at the Add-on&apos;s Public calling script, &quot;Prompt for Date Range {( config )}&quot;</SourceText>
+	<TargetText>    In which case, point it at the Add-on&apos;s Public calling script, &quot;Prompt for Date Range {( config )}&quot;</TargetText>
+	<Comment>com.fmi.scriptstep.text.    In which case, point it at the Add-on&apos;s Public calling script, &quot;Prompt for Date Range {( config )}&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C4A27CB6368585A1039F9D7ECFC383FD</StringID>
+	<SourceText>    @to</SourceText>
+	<TargetText>    @to</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @to</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C4CACD4425CE0997ED7913FDD7642AFC</StringID>
+	<SourceText>@fieldLabels</SourceText>
+	<TargetText>@fieldLabels</TargetText>
+	<Comment>com.fmi.scriptstep.text.@fieldLabels</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C5E1B1913A8597A276EB782D64D52B12</StringID>
+	<SourceText>        Overrides the text of the button that the user clicks to cancel/back out of the prompt.</SourceText>
+	<TargetText>        Overrides the text of the button that the user clicks to cancel/back out of the prompt.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        Overrides the text of the button that the user clicks to cancel/back out of the prompt.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C71C71D988850C03A51258DA4ED51E2D</StringID>
+	<SourceText>        DEFAULT: &quot;From&quot;</SourceText>
+	<TargetText>        DEFAULT: &quot;From&quot;</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: &quot;From&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C7CBA83F249D3D9526429A7F90F2109E</StringID>
+	<SourceText>Wait for User action</SourceText>
+	<TargetText>Wait for User action</TargetText>
+	<Comment>com.fmi.scriptstep.text.Wait for User action</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C861FA68DD99EC20170D32D961EB245C</StringID>
+	<SourceText>    It returns after closing the Prompt and return control flow to the specified or default window.</SourceText>
+	<TargetText>    It returns after closing the Prompt and return control flow to the specified or default window.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    It returns after closing the Prompt and return control flow to the specified or default window.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.C9EEB57B1F08AF0A4F32C0420242A6E5</StringID>
+	<SourceText>    4. Use this script to activate the module.</SourceText>
+	<TargetText>    4. Use this script to activate the module.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    4. Use this script to activate the module.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.CCB0690911155CFA2DBD0429B28DD298</StringID>
+	<SourceText>          e.g. @action -&gt; @continue could be implemented with:</SourceText>
+	<TargetText>          e.g. @action -&gt; @continue could be implemented with:</TargetText>
+	<Comment>com.fmi.scriptstep.text.          e.g. @action -&gt; @continue could be implemented with:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D291D541F2D357C6904A5CF677F50730</StringID>
+	<SourceText>        2. Install the new version.</SourceText>
+	<TargetText>        2. Install the new version.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        2. Install the new version.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D509A34BF6C666373D247EDC8AFBB48C</StringID>
+	<SourceText>           as well as handle it gracefully and consistently in all usage instances if the module does get uninstalled somehow.</SourceText>
+	<TargetText>           as well as handle it gracefully and consistently in all usage instances if the module does get uninstalled somehow.</TargetText>
+	<Comment>com.fmi.scriptstep.text.           as well as handle it gracefully and consistently in all usage instances if the module does get uninstalled somehow.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D522230B24DAC193DE1305A513B027CB</StringID>
+	<SourceText>        DEFAULT: The current window at the time the Prompt is raised.</SourceText>
+	<TargetText>        DEFAULT: The current window at the time the Prompt is raised.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: The current window at the time the Prompt is raised.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.D92BB49B5D01DBED4E8D6E0285229428</StringID>
+	<SourceText>    3. Rename the Duplicate to remove the &quot; Copy&quot; that was added to the name.</SourceText>
+	<TargetText>    3. Rename the Duplicate to remove the &quot; Copy&quot; that was added to the name.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    3. Rename the Duplicate to remove the &quot; Copy&quot; that was added to the name.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.DAEA2A04DFBABF06FE70ADB5A0CD0FF5</StringID>
+	<SourceText>@message</SourceText>
+	<TargetText>@message</TargetText>
+	<Comment>com.fmi.scriptstep.text.@message</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.DECDCCE536F4AA12BF080660F67B0CE9</StringID>
+	<SourceText>            This value means that the user canceled the prompt.</SourceText>
+	<TargetText>            This value means that the user canceled the prompt.</TargetText>
+	<Comment>com.fmi.scriptstep.text.            This value means that the user canceled the prompt.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.DF3D871010D3B5B8C21F4F1F042FC713</StringID>
+	<SourceText>    @fromDate</SourceText>
+	<TargetText>    @fromDate</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @fromDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.E99E7082B694398D4D408C3CDAB47F05</StringID>
+	<SourceText>    OBJECT, CONDITIONALLY PRESENT</SourceText>
+	<TargetText>    OBJECT, CONDITIONALLY PRESENT</TargetText>
+	<Comment>com.fmi.scriptstep.text.    OBJECT, CONDITIONALLY PRESENT</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EADCB7574B526B55EA89389F188E7117</StringID>
+	<SourceText>        3. Update the duplicated version of this script.</SourceText>
+	<TargetText>        3. Update the duplicated version of this script.</TargetText>
+	<Comment>com.fmi.scriptstep.text.        3. Update the duplicated version of this script.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EAE3E3D76A868D1B424B7B79413E78E0</StringID>
+	<SourceText>        DEFAULT: &quot;Proceed&quot;</SourceText>
+	<TargetText>        DEFAULT: &quot;Proceed&quot;</TargetText>
+	<Comment>com.fmi.scriptstep.text.        DEFAULT: &quot;Proceed&quot;</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EBD0CD632187A2C2177EA58C1B18642A</StringID>
+	<SourceText>Prepare the Return value</SourceText>
+	<TargetText>Prepare the Return value</TargetText>
+	<Comment>com.fmi.scriptstep.text.Prepare the Return value</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EC84721B203C6C4AC67ED8FD3A040AA8</StringID>
+	<SourceText>Check the current required inputs</SourceText>
+	<TargetText>Check the current required inputs</TargetText>
+	<Comment>com.fmi.scriptstep.text.Check the current required inputs</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.ECDE37FA85470435C8F48024E86C0A87</StringID>
+	<SourceText>    The Script Parameter, if provided, is expected to be a JSON Object.</SourceText>
+	<TargetText>    The Script Parameter, if provided, is expected to be a JSON Object.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    The Script Parameter, if provided, is expected to be a JSON Object.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EF2FBCD0A18E72CF484CE03621EAC32B</StringID>
+	<SourceText>    The Script will recognize the following properties on that object.</SourceText>
+	<TargetText>    The Script will recognize the following properties on that object.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    The Script will recognize the following properties on that object.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.EFA523654A9EA49AA34997E69D053194</StringID>
+	<SourceText>    The Script has been designed to be resiliant, ignoring a parameter value or properties it does not recognize.</SourceText>
+	<TargetText>    The Script has been designed to be resiliant, ignoring a parameter value or properties it does not recognize.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    The Script has been designed to be resiliant, ignoring a parameter value or properties it does not recognize.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F007B0F75AE516AA232192C70D39EBA7</StringID>
+	<SourceText>@dates</SourceText>
+	<TargetText>@dates</TargetText>
+	<Comment>com.fmi.scriptstep.text.@dates</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F0DE6CC1038676650741F8E4608829CB</StringID>
+	<SourceText>RETURNS:</SourceText>
+	<TargetText>RETURNS:</TargetText>
+	<Comment>com.fmi.scriptstep.text.RETURNS:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F27547DB1426D88E6635F04C8E660BAA</StringID>
+	<SourceText>    @returnTo</SourceText>
+	<TargetText>    @returnTo</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @returnTo</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F2AB50E1FA3EE80661EAE580B45D2521</StringID>
+	<SourceText>    Value will be one of:</SourceText>
+	<TargetText>    Value will be one of:</TargetText>
+	<Comment>com.fmi.scriptstep.text.    Value will be one of:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F6FAF7951C2A1A5583A87CE719B5A7F6</StringID>
+	<SourceText>@required</SourceText>
+	<TargetText>@required</TargetText>
+	<Comment>com.fmi.scriptstep.text.@required</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F90CB74028AAFB20A77321E745667DF4</StringID>
+	<SourceText>Parse Parameters with Defaults &amp; Optionals</SourceText>
+	<TargetText>Parse Parameters with Defaults &amp; Optionals</TargetText>
+	<Comment>com.fmi.scriptstep.text.Parse Parameters with Defaults &amp; Optionals</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F98352BC65A7DC0E741EB48340CFCD14</StringID>
+	<SourceText>    @toDate</SourceText>
+	<TargetText>    @toDate</TargetText>
+	<Comment>com.fmi.scriptstep.text.    @toDate</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.F9AAF8F03DAB8AB59A0360F40D09C23A</StringID>
+	<SourceText>    1. Duplicate this script.</SourceText>
+	<TargetText>    1. Duplicate this script.</TargetText>
+	<Comment>com.fmi.scriptstep.text.    1. Duplicate this script.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.FB25EB808A3F3538CD02122C378694A8</StringID>
+	<SourceText>@action</SourceText>
+	<TargetText>@action</TargetText>
+	<Comment>com.fmi.scriptstep.text.@action</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.scriptstep.text.FE0451DF23B91D77E1B17C0DA8C7A081</StringID>
+	<SourceText>Reset the inputs as they were</SourceText>
+	<TargetText>Reset the inputs as they were</TargetText>
+	<Comment>com.fmi.scriptstep.text.Reset the inputs as they were</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.727D31C5E8531C0664FFC1DC320AA2B0</StringID>
+	<SourceText>DRP_Date_Range_Prompt</SourceText>
+	<TargetText>DRP_Date_Range_Prompt</TargetText>
+	<Comment>com.fmi.tableoccurrence.DRP_Date_Range_Prompt</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DRP_Date_Range_Prompt::1E01DE8D8E3E6272B7828DD68175A8DD</StringID>
+	<SourceText>g_dateRange.to</SourceText>
+	<TargetText>g_dateRange.to</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.DRP_Date_Range_Prompt::g_dateRange.to</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.tableoccurrence.field.DRP_Date_Range_Prompt::F8F6741A6A23E77254A8BBFC942BAE37</StringID>
+	<SourceText>g_dateRange.from</SourceText>
+	<TargetText>g_dateRange.from</TargetText>
+	<Comment>com.fmi.tableoccurrence.field.DRP_Date_Range_Prompt::g_dateRange.from</Comment>
+</DynamicTemplateString>
