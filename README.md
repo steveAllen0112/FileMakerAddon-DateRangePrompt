@@ -5,7 +5,7 @@ Add-on for FileMaker Pro 19+.  When called, displays a configured Card window pr
 
 To install this addon, do the following steps:
 
-  1. Get the desired Release, and install the Addon into your FileMaker installation in the usual way.
+  1. Get the desired Release ([latest](https://github.com/steveAllen0112/FileMakerAddon-DateRangePrompt/releases/latest)), and install the Addon into your FileMaker installation in the usual way.
 
      You can obtain the Addon itself from either the `dist/` folder of the Source Code, OR
      through the official release file, `Date_Range_Module_Add-On.zip`.
