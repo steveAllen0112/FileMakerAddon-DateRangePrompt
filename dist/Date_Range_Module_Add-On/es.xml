@@ -119,6 +119,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.29DCC96713DE8D82FF67D08EF75804DF</StringID>
+	<SourceText>JSON.defaultTo.leaveEmpty ( jsonResult ; default )</SourceText>
+	<TargetText>JSON.defaultTo.leaveEmpty ( jsonResult ; default )</TargetText>
+	<Comment>com.fmi.calculation.text.JSON.defaultTo.leaveEmpty ( jsonResult ; default )</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.29E8E2F57C28D65530F08724C462FB50</StringID>
 	<SourceText>button.action.continue</SourceText>
 	<TargetText>button.action.continue</TargetText>
@@ -130,6 +137,13 @@
 	<SourceText>dates.to</SourceText>
 	<TargetText>dates.to</TargetText>
 	<Comment>com.fmi.calculation.text.dates.to</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.2A3F43A4CE012F6EC8C2190736057015</StringID>
+	<SourceText> End the actual function </SourceText>
+	<TargetText> End the actual function </TargetText>
+	<Comment>com.fmi.calculation.text. End the actual function</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -168,6 +182,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.3D5BBCACA6A53A544B0318B31AAE61DF</StringID>
+	<SourceText>JSON.defaultTo.fillEmpty ( jsonResult ; default )</SourceText>
+	<TargetText>JSON.defaultTo.fillEmpty ( jsonResult ; default )</TargetText>
+	<Comment>com.fmi.calculation.text.JSON.defaultTo.fillEmpty ( jsonResult ; default )</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.4F7547D511D4027C7F8C079F08091F50</StringID>
 	<SourceText>action</SourceText>
 	<TargetText>action</TargetText>
@@ -179,6 +200,13 @@
 	<SourceText>Date From: </SourceText>
 	<TargetText>Date From: </TargetText>
 	<Comment>com.fmi.calculation.text.Date From:</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.5AC2001ED695FE7F5182C7C66B945272</StringID>
+	<SourceText>HasValue ( lst ; value )</SourceText>
+	<TargetText>HasValue ( lst ; value )</TargetText>
+	<Comment>com.fmi.calculation.text.HasValue ( lst ; value )</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -294,6 +322,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.97F2A6B2F76B1996B3E8703A53A776A8</StringID>
+	<SourceText> Note: If you don&apos;t have the function natively,<CR/>but you do want it, then create it using from<CR/>here to &quot;End the actual function&quot;, below.<CR/>Grab the function name from the string being evaluated, above. </SourceText>
+	<TargetText> Note: If you don&apos;t have the function natively,<CR/>but you do want it, then create it using from<CR/>here to &quot;End the actual function&quot;, below.<CR/>Grab the function name from the string being evaluated, above. </TargetText>
+	<Comment>com.fmi.calculation.text. Note: If you don&apos;t have the function natively,_CR/_but you do want it, then create it using from_CR/_here to &quot;End the actual function&quot;, below._CR/_Grab the function name from the string being evaluated, above.</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.calculation.text.A97553572B2C7DEFF122DF441041E19A</StringID>
 	<SourceText>objects[1]</SourceText>
 	<TargetText>objects[1]</TargetText>
@@ -312,6 +347,20 @@
 	<SourceText>Let ( $dateRangePrompt.action.{{key}} = \&quot;{{value}}\&quot;; {{key}} )</SourceText>
 	<TargetText>Let ( $dateRangePrompt.action.{{key}} = \&quot;{{value}}\&quot;; {{key}} )</TargetText>
 	<Comment>com.fmi.calculation.text.Let ( $dateRangePrompt.action.{{key}} = \&quot;{{value}}\&quot;; {{key}} )</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.AFF61810D0F0965E161D0E2D24718F42</StringID>
+	<SourceText> Start the actual function </SourceText>
+	<TargetText> Start the actual function </TargetText>
+	<Comment>com.fmi.calculation.text. Start the actual function</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
+	<StringID>com.fmi.calculation.text.B310C1908D294CE8A1EAC1889F984C69</StringID>
+	<SourceText> Because this is an Add-on, we want to make sure the resource is available;<CR/>however, we also want to hook into the local &quot;generic&quot; version of it, if there is one </SourceText>
+	<TargetText> Because this is an Add-on, we want to make sure the resource is available;<CR/>however, we also want to hook into the local &quot;generic&quot; version of it, if there is one </TargetText>
+	<Comment>com.fmi.calculation.text. Because this is an Add-on, we want to make sure the resource is available;_CR/_however, we also want to hook into the local &quot;generic&quot; version of it, if there is one</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
@@ -623,6 +672,13 @@
 </DynamicTemplateString>
 
 <DynamicTemplateString>
+	<StringID>com.fmi.script.folder.53AAC0C59FF8D06592BA49E3F2592F5A</StringID>
+	<SourceText>Date Range Prompt v1.2.2</SourceText>
+	<TargetText>Date Range Prompt v1.2.2</TargetText>
+	<Comment>com.fmi.script.folder.Date Range Prompt v1.2.2</Comment>
+</DynamicTemplateString>
+
+<DynamicTemplateString>
 	<StringID>com.fmi.script.folder.726EB62A5EFDFE4CEA24167F31D4B094</StringID>
 	<SourceText>Example Use</SourceText>
 	<TargetText>Example Use</TargetText>
@@ -634,13 +690,6 @@
 	<SourceText>Private</SourceText>
 	<TargetText>Private</TargetText>
 	<Comment>com.fmi.script.folder.Private</Comment>
-</DynamicTemplateString>
-
-<DynamicTemplateString>
-	<StringID>com.fmi.script.folder.FDDF5B622F2C3A3A1322B2989259B8E3</StringID>
-	<SourceText>Date Range Prompt v1.2.0</SourceText>
-	<TargetText>Date Range Prompt v1.2.0</TargetText>
-	<Comment>com.fmi.script.folder.Date Range Prompt v1.2.0</Comment>
 </DynamicTemplateString>
 
 <DynamicTemplateString>
